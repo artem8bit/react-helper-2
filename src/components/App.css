@@ -1,0 +1,82 @@
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 15%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: rgba(24, 24, 24, 0.932);
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 20px; 
+  display: block;
+ 
+}
+
+a{
+  color: rgb(69, 147, 214);
+  text-align: left ;
+}
+
+.sidenav a:hover {
+  color: #ffffff;
+}
+
+.main {
+  margin-left: 160px; /* Same as the width of the sidenav */
+  font-size: 28px; /* Increased text to enable scrolling */
+  padding: 0px 10px;
+}
+
+footer{
+  padding: 15px 0;
+  color: rgb(0, 0, 0);
+  opacity: 0.5;
+  font-size: 0.85em;
+}
+.active{
+  color: rgb(248, 239, 239);
+  cursor: default;
+}
+
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 10px;}
+  .sidenav a {font-size: 18px;}
+}
+
+
+
+button {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.004);
+}
+
+
+.mui-btn--primary {
+  color: #FFF; 
+}
+
+
+
+.green{
+  background-color: green;
+}
+
+.redbutton{
+  background-color: rgb(233, 45, 45);
+  color:aliceblue;
+  margin:  0 ;
+  padding: 0;
+  border: none;
+}

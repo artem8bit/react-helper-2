@@ -1,0 +1,29 @@
+.container{
+    margin:0 20% 0 20%;
+   
+}
+
+p{
+    text-align: justify;
+    
+}
+.code{
+    
+    padding-top: 2%;
+    padding-bottom: 2% ;
+    border-radius: 15px;
+    background-color: rgba(238, 224, 146, 0.897);
+    /* border-style: outset; */
+    border-style: groove;
+}
+
+pre{
+    margin:1%;
+   
+    text-align: left;
+}
+
+li{
+    text-align: left;
+}
+
