@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-helper-2/static/css/main.f09860b2.css",
+    "main.js": "/react-helper-2/static/js/main.ec53aad9.js",
+    "static/media/roadmap.png": "/react-helper-2/static/media/roadmap.d75a782f5720bc1c846a.png",
+    "index.html": "/react-helper-2/index.html",
+    "main.f09860b2.css.map": "/react-helper-2/static/css/main.f09860b2.css.map",
+    "main.ec53aad9.js.map": "/react-helper-2/static/js/main.ec53aad9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f09860b2.css",
+    "static/js/main.ec53aad9.js"
+  ]
+}
