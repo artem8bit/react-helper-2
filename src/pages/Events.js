@@ -1,5 +1,6 @@
 import Toggle from "../components/Toggle";
 import "./style.css";
+import "../components/App.css"
 
 const Events = () => {
 
